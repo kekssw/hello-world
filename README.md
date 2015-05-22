@@ -1,2 +1,2 @@
 # hello-world
-A short description
+Supposedly this is the fixed version of README
